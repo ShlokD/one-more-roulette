@@ -1,3 +1,5 @@
-# Flighty Mango
+# One More Roulette
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+Roulette Game
+
+Demo: https://one-more-roulette.surge.sh/
